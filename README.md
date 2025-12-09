@@ -1,5 +1,6 @@
 🍳 CookVision AI
-AI-powered smart cooking assistant with recipe generation, dish visualization, and voice-guided cooking.
+
+--AI-powered smart cooking assistant with recipe generation, dish visualization, and voice-guided cooking.
 
 CookVision AI helps users cook smarter with instant AI recipes, realistic food images, and hands-free voice guidance—perfect for beginners, bachelors, and busy people.
 
