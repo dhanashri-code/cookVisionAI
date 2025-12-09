@@ -1,0 +1,7 @@
+{
+  "name": "CookVoice AI",
+  "description": "An intelligent cooking companion that generates structured recipes, visualizes dishes, and provides voice-guided instructions using Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
